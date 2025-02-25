@@ -102,10 +102,10 @@ function App() {
             <a href="https://github.com/Prashant-Kumar7" className="p-2 bg-gray-900 text-white rounded-full hover:bg-gray-700 transition-colors duration-300 hover:scale-110 transform">
               <Github size={24} />
             </a>
-            <a href="https://linkedin.com" className="p-2 bg-blue-600 text-white rounded-full hover:bg-blue-500 transition-colors duration-300 hover:scale-110 transform">
+            <a href="https://www.linkedin.com/in/prashant-kumar-8985b62b4/" className="p-2 bg-blue-600 text-white rounded-full hover:bg-blue-500 transition-colors duration-300 hover:scale-110 transform">
               <Linkedin size={24} />
             </a>
-            <a href="mailto:contact@example.com" className="p-2 bg-red-600 text-white rounded-full hover:bg-red-500 transition-colors duration-300 hover:scale-110 transform">
+            <a href="ajoysoni7777@gmail.com" className="p-2 bg-red-600 text-white rounded-full hover:bg-red-500 transition-colors duration-300 hover:scale-110 transform">
               <Mail size={24} />
             </a>
           </div>
