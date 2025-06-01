@@ -66,7 +66,7 @@ function App() {
       description: 'A multiplayer drawing and guessing game where players can create rooms, draw words, and guess others\' drawings. Features customizable game settings and real-time updates.',
       image: 'https://i.ytimg.com/vi/C8lMW0MODFs/maxresdefault.jpg',
       techStack: ['Next.js', 'TypeScript', 'WebSocket', 'Redis', 'Tailwind'],
-      liveLink: 'https://skribble.tumsab.xyz/',
+      liveLink: 'https://skribble-next-app.vercel.app/',
       githubLink: 'https://github.com/Prashant-Kumar7/skribble.git'
     }
   ];
