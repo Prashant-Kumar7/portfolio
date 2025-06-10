@@ -58,7 +58,7 @@ function App() {
       description: 'A WebRTC-based random video chatting application with peer-to-peer connections, featuring real-time communication and automatic peer matching.',
       image: 'https://i.pcmag.com/imagery/roundups/05igGAWa8LjJjVP0ug6myvX-4..v1702926112.jpg',
       techStack: ['React', 'TypeScript', 'WebRTC', 'WebSocket', 'Redis', 'Express', 'STUN/TURN'],
-      liveLink: 'https://web-rtc.tumsab.xyz/',
+      liveLink: 'https://web-rtc-fe.vercel.app/',
       githubLink: 'https://github.com/Prashant-Kumar7/random-video-chat.git'
     },
     {
