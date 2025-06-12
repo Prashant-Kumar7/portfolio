@@ -68,6 +68,14 @@ function App() {
       techStack: ['Next.js', 'TypeScript', 'WebSocket', 'Redis', 'Tailwind'],
       liveLink: 'https://skribble-next-app.vercel.app/',
       githubLink: 'https://github.com/Prashant-Kumar7/skribble.git'
+    },
+    {
+      title: 'Educators Platform',
+      description: 'An interactive learning and collaboration platform designed for educators and students. It includes features like screen sharing, a real-time collaborative whiteboard, and a smart notes-to-slides converter to enhance presentations. Users can join custom rooms, chat with educators for doubt resolution, and participate in multiplayer drawing and guessing games for engagement. Real-time updates are handled via WebSockets, ensuring smooth communication and interactivity throughout the session.',
+      image: 'https://www.ucertify.com/layout/themes/bootstrap4/images/platform_image/educator_header.webp',
+      techStack: ['React.js', 'TypeScript', 'WebSockets', 'Redis', 'Tailwind', 'Node.js', 'AWS S3'],
+      liveLink: 'https://edushare-olive.vercel.app/',
+      githubLink: 'https://github.com/Prashant-Kumar7/edushare'
     }
   ];
 
