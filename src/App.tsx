@@ -85,12 +85,12 @@ function App() {
 
   const projects = [
     {
-      title: 'Watch Party',
-      description: 'A collaborative video watching platform where users can create rooms, upload videos that are transcoded into multiple resolutions, and control playback synchronously across all participants.',
-      image: 'https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&q=80&w=1632',
-      techStack: ['React', 'TypeScript', 'WebSocket', 'Redis', 'FFMPEG', 'JWT', 'Tailwind'],
-      liveLink: 'https://coll-yt.tumsab.xyz/',
-      githubLink: 'https://github.com/Prashant-Kumar7/collabrative-yt.git',
+      title: 'Web Postman',
+      description: 'A browser-based API development and testing platform inspired by Postman. It allows users to send HTTP requests, inspect responses, manage collections, and collaborate in real-time—all from the web without needing a desktop app.',
+      image: './web-postman.png',
+      techStack: ['React.js', 'TypeScript', 'MikroORM', 'Tailwind', 'Node.js', 'Express.JS', 'PostgresSQL'],
+      liveLink: 'https://web-postman-ashen.vercel.app/',
+      githubLink: 'https://github.com/Prashant-Kumar7/web-postman',
       color: 'from-blue-500 to-purple-600'
     },
     {
