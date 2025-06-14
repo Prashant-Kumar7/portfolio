@@ -96,7 +96,7 @@ function App() {
     {
       title: 'Web Postman',
       description: 'A browser-based API development and testing platform inspired by Postman. It allows users to send HTTP requests, inspect responses, manage collections, and collaborate in real-time—all from the web without needing a desktop app.',
-      image: 'https://www.ucertify.com/layout/themes/bootstrap4/images/platform_image/educator_header.webp',
+      image: './web-postman.png',
       techStack: ['React.js', 'TypeScript', 'MikroORM', 'Tailwind', 'Node.js', 'Express.JS', 'PostgresSQL'],
       liveLink: 'https://web-postman-ashen.vercel.app/',
       githubLink: 'https://github.com/Prashant-Kumar7/web-postman',
